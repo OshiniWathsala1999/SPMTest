@@ -1,3 +1,3 @@
 # SPMTest
 
-Edited README.md file to tearn pull
+Edited README.md file to learn pull
